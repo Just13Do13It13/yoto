@@ -1,0 +1,6 @@
+print(bool(0))
+print(bool(-5))
+print(bool(3.14))
+print(bool(""))
+print(bool("Python"))
+print(bool(" "))

@@ -1,0 +1,8 @@
+print(5 > 3)
+print(10 < 2)
+print(7 == 7)
+print(6 != 8)
+print(4 >= 4)
+print(9 <= 3)
+res = (8 > 12)
+print(type(res))
